@@ -571,9 +571,19 @@ color:#F0B429;
 text-align:center;
 padding-top:20px;
 }
-.designation{
-color:#F0B429;
-font-weight:600;
-letter-spacing:1px;
-text-transform:uppercase;
+.founder-info{
+text-align:center;
+margin-top:15px;
+}
+
+.founder-info h3{
+color:#ffffff;
+font-size:28px;
+margin-bottom:8px;
+}
+
+.founder-info p{
+color:#d0d0d0;
+font-size:16px;
+margin:4px 0;
 }
