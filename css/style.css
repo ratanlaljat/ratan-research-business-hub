@@ -552,3 +552,22 @@ display:none;
 }
 
 }
+.footer-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:30px;
+}
+
+.footer-grid a{
+color:white;
+text-decoration:none;
+}
+
+.footer-grid a:hover{
+color:#F0B429;
+}
+
+.footer-bottom{
+text-align:center;
+padding-top:20px;
+}
