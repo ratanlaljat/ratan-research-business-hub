@@ -253,10 +253,6 @@ header{
     flex-wrap:wrap;
 }
 
-.hero-image img{
-   max: width 350px;
-    object-fit:contain;
-}
 
 /* ===================================
    CARDS
