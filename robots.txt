@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ratanlaljat.github.io/ratan-research-business-hub/sitemap.xml
