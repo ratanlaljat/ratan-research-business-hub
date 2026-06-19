@@ -143,46 +143,42 @@ Send Inquiry
 
 <div class="card">
 
-<form>
+<form action="https://api.web3forms.com/submit" method="POST">
+
+<input type="hidden" name="access_key" value="96b708e0-fae1-4350-9bde-63ea9b7ac90c">
+
+<input type="hidden" name="subject" value="New RRBH Contact Form Submission">
+
+<input type="hidden" name="from_name" value="RRBH Website">
+
+<input type="hidden" name="redirect"
+value="https://ratanlaljat.github.io/ratan-research-business-hub/success.html">
 
 <div style="margin-bottom:20px;">
-
 <label>Full Name</label>
-
-<input
-type="text"
+<input type="text" name="name" required
 placeholder="Enter your name"
 style="width:100%;padding:15px;margin-top:8px;">
-
 </div>
 
 <div style="margin-bottom:20px;">
-
 <label>Email</label>
-
-<input
-type="email"
+<input type="email" name="email" required
 placeholder="Enter your email"
 style="width:100%;padding:15px;margin-top:8px;">
-
 </div>
 
 <div style="margin-bottom:20px;">
-
 <label>Phone Number</label>
-
-<input
-type="tel"
+<input type="tel" name="phone"
 placeholder="Enter phone number"
 style="width:100%;padding:15px;margin-top:8px;">
-
 </div>
 
 <div style="margin-bottom:20px;">
-
 <label>Inquiry Type</label>
 
-<select
+<select name="inquiry"
 style="width:100%;padding:15px;margin-top:8px;">
 
 <option>Business</option>
@@ -196,13 +192,15 @@ style="width:100%;padding:15px;margin-top:8px;">
 </div>
 
 <div style="margin-bottom:20px;">
-
 <label>Message</label>
 
 <textarea
+name="message"
+required
 rows="6"
 placeholder="Write your message..."
-style="width:100%;padding:15px;margin-top:8px;"></textarea>
+style="width:100%;padding:15px;margin-top:8px;">
+</textarea>
 
 </div>
 
