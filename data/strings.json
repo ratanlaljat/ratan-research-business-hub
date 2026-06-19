@@ -1,0 +1,241 @@
+{
+  "brand_name": {
+    "en": "Ratan Research & Business Hub",
+    "hi": "रतन रिसर्च एंड बिजनेस हब"
+  },
+
+  "tagline": {
+    "en": "Think. Research. Grow.",
+    "hi": "सोचें। शोध करें। आगे बढ़ें।"
+  },
+
+  "nav_home": {
+    "en": "Home",
+    "hi": "होम"
+  },
+
+  "nav_about": {
+    "en": "About",
+    "hi": "हमारे बारे में"
+  },
+
+  "nav_services": {
+    "en": "Services",
+    "hi": "सेवाएँ"
+  },
+
+  "nav_reports": {
+    "en": "Research Reports",
+    "hi": "रिसर्च रिपोर्ट्स"
+  },
+
+  "nav_premium": {
+    "en": "Premium",
+    "hi": "प्रीमियम"
+  },
+
+  "nav_student": {
+    "en": "Student Hub",
+    "hi": "स्टूडेंट हब"
+  },
+
+  "nav_startup": {
+    "en": "Startup Hub",
+    "hi": "स्टार्टअप हब"
+  },
+
+  "nav_business": {
+    "en": "Business Growth",
+    "hi": "बिजनेस ग्रोथ"
+  },
+
+  "nav_politics": {
+    "en": "Political Affairs",
+    "hi": "पॉलिटिकल अफेयर्स"
+  },
+
+  "nav_blog": {
+    "en": "Blog",
+    "hi": "ब्लॉग"
+  },
+
+  "nav_testimonials": {
+    "en": "Testimonials",
+    "hi": "समीक्षाएँ"
+  },
+
+  "nav_faq": {
+    "en": "FAQ",
+    "hi": "सामान्य प्रश्न"
+  },
+
+  "nav_contact": {
+    "en": "Contact",
+    "hi": "संपर्क"
+  },
+
+  "hero_title": {
+    "en": "Research-Driven Solutions for Businesses, Students & Future Leaders",
+    "hi": "व्यवसायों, छात्रों और भविष्य के नेताओं के लिए रिसर्च आधारित समाधान"
+  },
+
+  "hero_description": {
+    "en": "Helping businesses, students and professionals make better decisions through research, analysis and strategic guidance.",
+    "hi": "रिसर्च, विश्लेषण और रणनीतिक मार्गदर्शन के माध्यम से बेहतर निर्णय लेने में सहायता।"
+  },
+
+  "hero_btn_reports": {
+    "en": "Explore Research",
+    "hi": "रिसर्च देखें"
+  },
+
+  "hero_btn_contact": {
+    "en": "Contact RRBH",
+    "hi": "RRBH से संपर्क करें"
+  },
+
+  "audience_title": {
+    "en": "Who We Serve",
+    "hi": "हम किनके लिए कार्य करते हैं"
+  },
+
+  "audience_business": {
+    "en": "Businesses",
+    "hi": "व्यवसाय"
+  },
+
+  "audience_students": {
+    "en": "Students",
+    "hi": "छात्र"
+  },
+
+  "audience_leaders": {
+    "en": "Future Leaders",
+    "hi": "भविष्य के नेता"
+  },
+
+  "why_rrbh": {
+    "en": "Why Choose RRBH?",
+    "hi": "RRBH क्यों चुनें?"
+  },
+
+  "featured_report": {
+    "en": "Featured Research Report",
+    "hi": "विशेष रिसर्च रिपोर्ट"
+  },
+
+  "latest_posts": {
+    "en": "Latest Insights",
+    "hi": "नवीनतम लेख"
+  },
+
+  "testimonials_title": {
+    "en": "What People Say",
+    "hi": "लोग क्या कहते हैं"
+  },
+
+  "newsletter_title": {
+    "en": "Stay Updated",
+    "hi": "अपडेट रहें"
+  },
+
+  "newsletter_desc": {
+    "en": "Get research updates, reports and insights directly in your inbox.",
+    "hi": "रिसर्च अपडेट्स, रिपोर्ट्स और इनसाइट्स सीधे प्राप्त करें।"
+  },
+
+  "newsletter_btn": {
+    "en": "Subscribe",
+    "hi": "सब्सक्राइब करें"
+  },
+
+  "contact_title": {
+    "en": "Contact Us",
+    "hi": "संपर्क करें"
+  },
+
+  "contact_name": {
+    "en": "Full Name",
+    "hi": "पूरा नाम"
+  },
+
+  "contact_email": {
+    "en": "Email Address",
+    "hi": "ईमेल पता"
+  },
+
+  "contact_phone": {
+    "en": "Phone Number",
+    "hi": "फोन नंबर"
+  },
+
+  "contact_message": {
+    "en": "Message",
+    "hi": "संदेश"
+  },
+
+  "contact_submit": {
+    "en": "Send Message",
+    "hi": "संदेश भेजें"
+  },
+
+  "buy_report": {
+    "en": "Buy Report",
+    "hi": "रिपोर्ट खरीदें"
+  },
+
+  "book_call": {
+    "en": "Book Consultation",
+    "hi": "कंसल्टेशन बुक करें"
+  },
+
+  "read_more": {
+    "en": "Read More",
+    "hi": "और पढ़ें"
+  },
+
+  "download_now": {
+    "en": "Download Now",
+    "hi": "अभी डाउनलोड करें"
+  },
+
+  "footer_about": {
+    "en": "Building India's practical bilingual research hub for students, businesses and future leaders.",
+    "hi": "भारत का व्यावहारिक द्विभाषी रिसर्च प्लेटफॉर्म।"
+  },
+
+  "footer_disclaimer": {
+    "en": "RRBH provides research, educational and consultancy-based guidance. Final decisions remain the responsibility of the client.",
+    "hi": "RRBH शोध, शिक्षा और परामर्श आधारित मार्गदर्शन प्रदान करता है। अंतिम निर्णय ग्राहक की जिम्मेदारी है।"
+  },
+
+  "footer_rights": {
+    "en": "All Rights Reserved.",
+    "hi": "सर्वाधिकार सुरक्षित।"
+  },
+
+  "chat_title": {
+    "en": "RRBH Assistant",
+    "hi": "RRBH सहायक"
+  },
+
+  "chat_welcome": {
+    "en": "Hello! How can I help you today?",
+    "hi": "नमस्ते! मैं आपकी कैसे सहायता कर सकता हूँ?"
+  },
+
+  "chat_reports": {
+    "en": "How to buy a report?",
+    "hi": "रिपोर्ट कैसे खरीदें?"
+  },
+
+  "chat_services": {
+    "en": "What services do you offer?",
+    "hi": "आप कौन सी सेवाएँ देते हैं?"
+  },
+
+  "chat_contact": {
+    "en": "How can I contact RRBH?",
+    "hi": "RRBH से संपर्क कैसे करें?"
+  }
+}

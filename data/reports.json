@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "title_en": "Small Business Growth Report 2026",
+    "title_hi": "स्मॉल बिजनेस ग्रोथ रिपोर्ट 2026",
+
+    "category": "Market Trend Report",
+
+    "type": "free",
+
+    "price": 0,
+
+    "publication_number": "RRBH-2026-001",
+
+    "summary_en": "A research-focused report covering Indian and Rajasthan MSME trends, district-level opportunities, business growth strategies and AI adoption.",
+
+    "summary_hi": "भारतीय और राजस्थान MSME क्षेत्र, व्यापार वृद्धि, जिला स्तर के अवसर और AI अपनाने पर आधारित शोध रिपोर्ट।",
+
+    "pdf": "assets/pdfs/small-business-growth-report-2026.pdf",
+
+    "featured": true
+  },
+
+  {
+    "id": 2,
+
+    "title_en": "Startup Opportunity Report - Rajasthan MSME Clusters",
+
+    "title_hi": "राजस्थान MSME क्लस्टर अवसर रिपोर्ट",
+
+    "category": "Premium",
+
+    "type": "paid",
+
+    "price": 99,
+
+    "publication_number": "RRBH-2026-002",
+
+    "summary_en": "High-potential startup opportunities across Rajasthan districts.",
+
+    "summary_hi": "राजस्थान के विभिन्न जिलों में उच्च संभावनाओं वाले स्टार्टअप अवसर।",
+
+    "pdf": "",
+
+    "featured": false
+  },
+
+  {
+    "id": 3,
+
+    "title_en": "Sales Growth Playbook For Local Retailers",
+
+    "title_hi": "लोकल रिटेलर्स के लिए सेल्स ग्रोथ प्लेबुक",
+
+    "category": "Premium",
+
+    "type": "paid",
+
+    "price": 149,
+
+    "publication_number": "RRBH-2026-003",
+
+    "summary_en": "Practical sales and marketing strategies for local businesses.",
+
+    "summary_hi": "स्थानीय व्यवसायों के लिए व्यावहारिक बिक्री और मार्केटिंग रणनीतियाँ।",
+
+    "pdf": "",
+
+    "featured": false
+  }
+]
