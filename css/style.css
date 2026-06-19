@@ -401,22 +401,6 @@ header{
 }
 
 /* ===================================
-   ADS PLACEHOLDER
-=================================== */
-
-.ad-slot{
-    background:white;
-    border:2px dashed #ccc;
-
-    padding:40px;
-    text-align:center;
-
-    border-radius:16px;
-
-    margin:40px 0;
-}
-
-/* ===================================
    FOOTER
 =================================== */
 
